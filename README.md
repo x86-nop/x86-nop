@@ -1,6 +1,6 @@
 # :lock: Mission
 
-I'm improving web3 security with a focus on threat intel.
+Web3 security research and threat intel.
 
 # :mailbox: Contact
 
